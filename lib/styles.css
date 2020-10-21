@@ -1,0 +1,120 @@
+#titulo{
+    background-color: 	#4e4e4e;
+}
+#nombre{
+    color:white;
+    margin: 0;
+    font-size: 40px;
+    line-height: 2.1em;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#beico{
+    background-color: #383838;
+}
+
+
+#profesion{
+    background-color: #3d3d3d;
+}
+
+#colOne{
+    background-color: #00be9c;
+}
+
+#colTwo{
+    background-color: #009bd9;
+}
+
+#colThree{
+    background-color: #b457b9;
+}
+
+#colFour{
+    background-color: #fe802b;
+}
+
+#colFive{
+    background-color: #ff4b42;
+}
+
+#colSix{
+    background-color: #f2a82d;
+}
+#contenido{
+    background-color: #ffffff;
+}
+#info{
+    background-color: #efefef;
+}
+
+#employment{
+    background-color: #b358b7;
+}
+
+#skills{
+    background-color: #0099dc;
+}
+
+#down{
+    background-color: #2f2f2f;
+}
+
+#download{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;;
+
+}
+
+#behance{
+    
+    width: 100%;
+    opacity: .6;
+    color: #efefef;
+    font-size: 40px;
+    margin: 0;
+    text-align: center;
+    display: block;
+}
+
+#span{
+    display: block;
+    width: 100%;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 14px;
+    color:white;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto; 
+  
+  }
+
+  #icon{
+    text-align: center;
+    display: block;
+    font-size: 32px;
+    left:30%;
+    margin: 0;
+  }
+
+  #as{
+    width: 365px;
+    height: 312px;
+  }
+
+  #profesion{
+    color:white;
+    margin: 0;
+    font-size: 30px;
+    line-height: 2.1em;
+    font-family: 'Montserrat', sans-serif;
+  }
